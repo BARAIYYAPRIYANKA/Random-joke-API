@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://source.unsplash.com/random/1"
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://source.unsplash.com/random/2"
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://source.unsplash.com/random/3"
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://source.unsplash.com/random/4"
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://source.unsplash.com/random/5"
+    }
+]
